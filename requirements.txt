@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+sentencepiece
+requests
+beautifulsoup4
+colorama
+qdrant-client
+sentence-transformers

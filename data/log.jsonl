@@ -1,0 +1,2 @@
+{"instruction": "Who founded Tesla?", "context": "Local Memory:\nElon Musk founded Tesla...", "response": "Elon Musk founded Tesla."}
+{"instruction": "Who founded Tesla?", "context": "Local Memory:\n\n\nWeb Results:\n(Pretend this is real search result content for: 'Who founded Tesla?')", "response": "The founder of Tesla is Elon Musk. He is a business magnate, industrial designer, and engineer. He co-founded PayPal, and is the CEO, CTO, and chief designer of Tesla, Inc. and SpaceX."}

@@ -1,5 +1,13 @@
 # 🤖 AnswerGPT
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)](https://huggingface.co/docs/transformers/index)
+[![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-orange?logo=qdrant)](https://qdrant.tech/)
+[![Gradio](https://img.shields.io/badge/UI-Gradio-blueviolet?logo=gradio)](https://gradio.app/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mxORNmsuDNtbxC4F8_iGElgZVzN7W1hY)
+
+
 AnswerGPT is a real-time, context-aware, hybrid chatbot powered by:
 
 - 🧠 **Phi-2** — A powerful, lightweight language model by Microsoft

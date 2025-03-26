@@ -110,7 +110,13 @@ src/modules/finetune_qlora.py
 Make sure `data/log.jsonl` has high-quality Q&A logs.
 
 ---
+## 🧪 Try It in Google Colab
 
+You can fine-tune or run AnswerGPT directly in Colab:
+
+👉 [Open in Colab](https://colab.research.google.com/drive/1mxORNmsuDNtbxC4F8_iGElgZVzN7W1hY)
+
+---
 ## 🌍 Credits
 - [Phi-2](https://huggingface.co/microsoft/phi-2) by Microsoft
 - [QLoRA](https://arxiv.org/abs/2305.14314)

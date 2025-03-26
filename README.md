@@ -47,7 +47,7 @@ answergpt/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/answergpt.git
+git clone https://github.com/AshrithChandan/Answer_GPT.git
 cd answergpt
 ```
 
